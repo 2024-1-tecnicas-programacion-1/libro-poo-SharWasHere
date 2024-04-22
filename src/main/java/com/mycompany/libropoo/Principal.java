@@ -3,6 +3,13 @@ package com.mycompany.libropoo;
 import java.util.Scanner;
 
 public class Principal {
+    
+    /**
+     * Método inicial que es ejecutado
+     * @param args
+     *
+     * Complejidad temporal: O(1) Tiempo constante
+     */
 
     public static void main(String[] args) {
         Scanner lector = new Scanner(System.in);
